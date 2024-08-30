@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,Telegram bot)](https://skillicons.dev)
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
