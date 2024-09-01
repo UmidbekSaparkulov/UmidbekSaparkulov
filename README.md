@@ -2,7 +2,7 @@
 <p>Hey! 👋 I'm Umid Saparkulov (umidsaparkulov).</p>
 
 - Telegram:                           [UmidbekSaparkulov](https://t.me/Umid04013)
-- Leetcode:                           [UmidSaparkulov](https://leetcode.com/u/UmidSaparkulov/)
+- Leetcode:                           [UmidSaparkulov]((https://leetcode.com/u/ZFRBxmd3a6/))
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
