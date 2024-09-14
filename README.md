@@ -3,6 +3,7 @@
 
 - Telegram:                           [UmidbekSaparkulov](https://t.me/Umid04013)
 - Leetcode:                           [UmidSaparkulov](https://leetcode.com/u/ZFRBxmd3a6/)
+- Linked In:                          [UmidbekSaparkulov](https://www.linkedin.com/in/umidjon-saparkulov-182a54328/)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
