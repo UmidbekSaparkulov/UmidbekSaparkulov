@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman, mysql, postgresqlt, django, djangoframwork)](https://skillicons.dev)
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
